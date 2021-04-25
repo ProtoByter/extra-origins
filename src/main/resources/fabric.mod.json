@@ -5,11 +5,12 @@
   "name": "Extra Origins",
   "description": "Adds more origins to the Origins mod",
   "authors": [
-	"MoriyaShiine"
+	"MoriyaShiine",
+    "ProtoByter"
   ],
   "contact": {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/extra-origins",
-	"sources": "https://github.com/MoriyaShiine/extra-origins"
+	"sources": "https://github.com/ProtoByter/extra-origins"
   },
   "license": "GPL-3.0",
   "icon": "assets/extraorigins/icon.png",

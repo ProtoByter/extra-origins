@@ -1,0 +1,11 @@
+{
+  "powers" : [
+    "origins:carnivore",
+    "origins:elytra",
+    "extraorigins:bite_sized",
+    "extraorigins:avali_heat_hunger",
+    "extraorigins:avali_heat_slowness"
+  ],
+  "icon" : "golden_sword",
+  "impact" : 2
+}
